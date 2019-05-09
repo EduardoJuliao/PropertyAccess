@@ -1,0 +1,6 @@
+{
+   "name": "propertyaccess",
+   "jest": {
+     "verbose": true
+   }
+ }
